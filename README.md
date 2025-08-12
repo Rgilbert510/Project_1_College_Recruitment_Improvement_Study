@@ -3,7 +3,7 @@ RG - CMP 262 - Project 1
 
 Goal: Using Python, perform an exploratory data analysis of the CCM Computing Courses Entry Surveys.  Provide insights that can help the Information Technologies department increase enrollment in computing classes. 
 
-##Part 1.  Data Study Questions
+## Part 1.  Data Study Questions
 
   1) What is the primary reason that the Adult Student population (ages 25+) decides to Enroll at CCM?
 
